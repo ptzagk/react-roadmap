@@ -20,7 +20,7 @@
 - [Inspiration And Additional Resources](#inspiration-and-additional-resources)
 
 ## Motivation
-This project aims to collect the **best resources** for those that want to learn how to build applications with React and also understand the [concepts](https://github.com/reactjs/react-basic) behind it, like Functional Programming, Composition, Unidirectional Data Flow and many others.
+This project aims to collect the **best free resources** for those that want to learn how to build applications with React and also understand the [concepts](https://github.com/reactjs/react-basic) that come with its adoption like Functional Programming, Composition, Unidirectional Data Flow and many others.
 
 ## Roadmap
 ### Why React?
