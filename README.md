@@ -1,4 +1,4 @@
-![React Roadmap](img/react-roadmap.png)
+![React Roadmap](img/logo.png)
 
 <p align="center">
 	A curated list of <strong>free resources</strong> to master React Development
