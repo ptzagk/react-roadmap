@@ -62,6 +62,7 @@ This project aims to collect the **best resources** for those that want to learn
 1. [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ### Build Stuff
+1. [Several project ideas](https://react.rocks/)
 1. [React - TodoMVC](http://todomvc.com/examples/react/#/)
 1. [Bootstrapping a React project](https://auth0.com/blog/bootstrapping-a-react-project/)
 1. [The SoundCloud Client in React + Redux](http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
