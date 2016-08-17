@@ -78,6 +78,8 @@ The React's ecosystem is overwhelming for beginners. Ensure to learn each new to
 
 Said this, our first course in the React section covers all the React ecosystem. Face this as a general introduction to each topic that will be studied deeply in the following sections.
 
+In the sections about React, Webpack, and ES2015+, the initial resources are more superficial and the last ones are going deeper in the respective topic. You can opt to learn the basics first and return to them later, but don't skip them without have a basic knowledge of the matter.
+
 ## How To Colaborate
 To suggest new sections or new resources, open an issue explaining why we should add/remove some resource/section. After at least 5 people approve (:+1:) your indication, you will be invited to create the pull request.
 
