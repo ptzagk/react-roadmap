@@ -1,4 +1,4 @@
-# React Roadmap
+![React Roadmap](img/react-roadmap.svg)
 
 :link: A curated list of free resources to master React Development :sparkles:
 
