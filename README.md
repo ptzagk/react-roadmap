@@ -1,7 +1,5 @@
 ![React Roadmap](img/react-roadmap.png)
 
-:link: A curated list of free resources to master React Development :sparkles:
-
 <p align="center">
 	A curated list of <strong>free resources</strong> to master React Development
 </p>
